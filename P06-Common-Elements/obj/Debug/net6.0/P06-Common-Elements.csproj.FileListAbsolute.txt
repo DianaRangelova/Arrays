@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\obj\Debug\net6.0\P06-Common-Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\obj\Debug\net6.0\P06-Common-Elements.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\obj\Debug\net6.0\P06-Common-Elements.AssemblyInfo.cs
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\obj\Debug\net6.0\P06-Common-Elements.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\bin\Debug\net6.0\P06-Common-Elements.exe
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\bin\Debug\net6.0\P06-Common-Elements.deps.json
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\bin\Debug\net6.0\P06-Common-Elements.runtimeconfig.json
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\bin\Debug\net6.0\P06-Common-Elements.dll
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\bin\Debug\net6.0\P06-Common-Elements.pdb
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\obj\Debug\net6.0\P06-Common-Elements.dll
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\obj\Debug\net6.0\refint\P06-Common-Elements.dll
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\obj\Debug\net6.0\P06-Common-Elements.pdb
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\obj\Debug\net6.0\P06-Common-Elements.genruntimeconfig.cache
+C:\Users\PC\source\repos\Arrays\P06-Common-Elements\obj\Debug\net6.0\ref\P06-Common-Elements.dll

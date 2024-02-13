@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\bin\Debug\net6.0\P04-Even-and-Odd-Subtraction.exe
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\bin\Debug\net6.0\P04-Even-and-Odd-Subtraction.deps.json
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\bin\Debug\net6.0\P04-Even-and-Odd-Subtraction.runtimeconfig.json
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\bin\Debug\net6.0\P04-Even-and-Odd-Subtraction.dll
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\bin\Debug\net6.0\P04-Even-and-Odd-Subtraction.pdb
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\obj\Debug\net6.0\P04-Even-and-Odd-Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\obj\Debug\net6.0\P04-Even-and-Odd-Subtraction.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\obj\Debug\net6.0\P04-Even-and-Odd-Subtraction.AssemblyInfo.cs
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\obj\Debug\net6.0\P04-Even-and-Odd-Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\obj\Debug\net6.0\P04-Even-and-Odd-Subtraction.dll
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\obj\Debug\net6.0\refint\P04-Even-and-Odd-Subtraction.dll
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\obj\Debug\net6.0\P04-Even-and-Odd-Subtraction.pdb
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\obj\Debug\net6.0\P04-Even-and-Odd-Subtraction.genruntimeconfig.cache
+C:\Users\PC\source\repos\Arrays\P04-Even-and-Odd-Subtraction\obj\Debug\net6.0\ref\P04-Even-and-Odd-Subtraction.dll
